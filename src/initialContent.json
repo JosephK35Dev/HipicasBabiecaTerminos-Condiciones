@@ -1,0 +1,781 @@
+{
+  "brand": "Hípicas Babieca",
+  "hero": {
+    "eyebrow": "En vivo · Apostando ahora",
+    "title": "Promociones, carreras y emoción toda la semana. 🐴🔥",
+    "description": "La casa hípica con los mejores dividendos y bonos de América Latina. Miles de apostadores ya ganan con nosotros cada semana.",
+    "notice": "+18 · Juega responsablemente"
+  },
+  "promos": [
+    {
+      "day": "Lunes",
+      "name": "SALIDA DE CAMPEONES",
+      "image": "https://images.unsplash.com/photo-1516673699707-4f2a243fafaf?w=900&h=400&fit=crop&auto=format",
+      "description": "1.ª recarga del día: hasta 80% de bono. Rollover: 50% → X5, 60% → X4, 80% → X3."
+    },
+    {
+      "day": "Martes",
+      "name": "DE MULTIPLICAR",
+      "image": "https://images.unsplash.com/photo-1516673699707-4f2a243fafaf?w=900&h=400&fit=crop&auto=format",
+      "description": "1.ª recarga → Hasta 80%. Perú · Brasil · EE. UU.: 2.ª recarga → 20 giros. Demás países: 2.ª recarga → 200% deportivas."
+    },
+    {
+      "day": "Miércoles",
+      "name": "SALVAJE",
+      "image": "https://images.unsplash.com/photo-1516673699707-4f2a243fafaf?w=900&h=400&fit=crop&auto=format",
+      "description": "1.ª recarga del día, hasta 80% de bono. Rollover: 50% → X5, 60% → X4, 80% → X3."
+    },
+    {
+      "day": "Jueves",
+      "name": "3×3",
+      "image": "https://images.unsplash.com/photo-1516673699707-4f2a243fafaf?w=900&h=400&fit=crop&auto=format",
+      "description": "Perú · Brasil · EE. UU.: 1.ª recarga → Según monto; 2.ª recarga → 20 giros; 3.ª recarga → 30 giros. Demás países: 1.ª recarga → 30%; 2.ª recarga → 20 giros; 3.ª recarga → 200% deportivas."
+    },
+    {
+      "day": "Viernes",
+      "name": "3×3",
+      "image": "https://images.unsplash.com/photo-1516673699707-4f2a243fafaf?w=900&h=400&fit=crop&auto=format",
+      "description": "Perú · Brasil · EE. UU.: 1.ª recarga → Según monto; 2.ª recarga → 20 giros; 3.ª recarga → 30 giros. Demás países: 1.ª recarga → 30%; 2.ª recarga → 20 giros; 3.ª recarga → 200% deportivas."
+    },
+    {
+      "day": "Sábado",
+      "name": "SÁBADO DE GALOPE",
+      "image": "https://images.unsplash.com/photo-1516673699707-4f2a243fafaf?w=900&h=400&fit=crop&auto=format",
+      "description": "Bono en hipismo del 20%. Rollover X5. Aplica los sábados en que no haya eventos en hipódromos de Venezuela; cuando hay jornada venezolana (Valencia), esa semana no hay promo de galope."
+    },
+    {
+      "day": "Domingo",
+      "name": "JORNADA HÍPICA",
+      "image": "https://images.unsplash.com/photo-1516673699707-4f2a243fafaf?w=900&h=400&fit=crop&auto=format",
+      "description": "La Rinconada."
+    }
+  ],
+  "countries": [
+    {
+      "flag": "🇨🇴",
+      "country": "Colombia",
+      "currency": "COP",
+      "mondayWednesday": [
+        {
+          "bono": "50%",
+          "rollover": "X5",
+          "rango": "$20.000 a $60.000 COP",
+          "bonoMaximo": "$80.000 COP",
+          "gananciaMaxima": "$150.000 COP"
+        },
+        {
+          "bono": "60%",
+          "rollover": "X4",
+          "rango": "$60.001 a $99.999 COP",
+          "bonoMaximo": "$80.000 COP",
+          "gananciaMaxima": "$250.000 COP"
+        },
+        {
+          "bono": "80%",
+          "rollover": "X3",
+          "rango": "Desde $100.000 COP",
+          "bonoMaximo": "$80.000 COP",
+          "gananciaMaxima": "$300.000 COP"
+        }
+      ],
+      "thursdayFriday": [
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "$20.000 a $60.000 COP",
+          "bonoMaximo": "$90.000 COP",
+          "gananciaMaxima": "$150.000 COP"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "$60.001 a $99.999 COP",
+          "bonoMaximo": "$90.000 COP",
+          "gananciaMaxima": "$250.000 COP"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "Desde $100.000 COP",
+          "bonoMaximo": "$90.000 COP",
+          "gananciaMaxima": "$300.000 COP"
+        }
+      ],
+      "saturday": [
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "$20.000 a $60.000 COP",
+          "bonoMaximo": "$60.000 COP",
+          "gananciaMaxima": "$100.000 COP"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "$60.001 a $99.999 COP",
+          "bonoMaximo": "$60.000 COP",
+          "gananciaMaxima": "$180.000 COP"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "Desde $100.000 COP",
+          "bonoMaximo": "$60.000 COP",
+          "gananciaMaxima": "$230.000 COP"
+        }
+      ]
+    },
+    {
+      "flag": "🇵🇪",
+      "country": "Perú",
+      "currency": "PEN",
+      "mondayWednesday": [
+        {
+          "bono": "50%",
+          "rollover": "X5",
+          "rango": "S/ 20 a S/ 60",
+          "bonoMaximo": "S/ 80",
+          "gananciaMaxima": "S/ 150"
+        },
+        {
+          "bono": "60%",
+          "rollover": "X4",
+          "rango": "S/ 61 a S/ 99",
+          "bonoMaximo": "S/ 80",
+          "gananciaMaxima": "S/ 250"
+        },
+        {
+          "bono": "80%",
+          "rollover": "X3",
+          "rango": "Desde S/ 100",
+          "bonoMaximo": "S/ 80",
+          "gananciaMaxima": "S/ 300"
+        }
+      ],
+      "thursdayFriday": [
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "S/ 20 a S/ 60",
+          "bonoMaximo": "S/ 90",
+          "gananciaMaxima": "S/ 150"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "S/ 61 a S/ 99",
+          "bonoMaximo": "S/ 90",
+          "gananciaMaxima": "S/ 250"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "Desde S/ 100",
+          "bonoMaximo": "S/ 90",
+          "gananciaMaxima": "S/ 300"
+        }
+      ],
+      "saturday": [
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "S/ 20 a S/ 60",
+          "bonoMaximo": "S/ 60",
+          "gananciaMaxima": "S/ 100"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "S/ 61 a S/ 99",
+          "bonoMaximo": "S/ 60",
+          "gananciaMaxima": "S/ 180"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "Desde S/ 100",
+          "bonoMaximo": "S/ 60",
+          "gananciaMaxima": "S/ 230"
+        }
+      ]
+    },
+    {
+      "flag": "🇺🇸",
+      "country": "Dólar",
+      "currency": "USD",
+      "mondayWednesday": [
+        {
+          "bono": "50%",
+          "rollover": "X5",
+          "rango": "US$5 a US$20",
+          "bonoMaximo": "US$40",
+          "gananciaMaxima": "US$80"
+        },
+        {
+          "bono": "60%",
+          "rollover": "X4",
+          "rango": "US$21 a US$60",
+          "bonoMaximo": "US$40",
+          "gananciaMaxima": "US$100"
+        },
+        {
+          "bono": "80%",
+          "rollover": "X3",
+          "rango": "Desde US$61",
+          "bonoMaximo": "US$40",
+          "gananciaMaxima": "US$120"
+        }
+      ],
+      "thursdayFriday": [
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "US$5 a US$20",
+          "bonoMaximo": "US$50",
+          "gananciaMaxima": "US$80"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "US$21 a US$60",
+          "bonoMaximo": "US$50",
+          "gananciaMaxima": "US$100"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "Desde US$61",
+          "bonoMaximo": "US$50",
+          "gananciaMaxima": "US$120"
+        }
+      ],
+      "saturday": [
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "US$5 a US$20",
+          "bonoMaximo": "US$30",
+          "gananciaMaxima": "US$50"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "US$21 a US$60",
+          "bonoMaximo": "US$30",
+          "gananciaMaxima": "US$80"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "Desde US$61",
+          "bonoMaximo": "US$30",
+          "gananciaMaxima": "US$100"
+        }
+      ]
+    },
+    {
+      "flag": "🇨🇱",
+      "country": "Chile",
+      "currency": "CLP",
+      "mondayWednesday": [
+        {
+          "bono": "50%",
+          "rollover": "X5",
+          "rango": "$5.000 a $20.000 CLP",
+          "bonoMaximo": "$40.000 CLP",
+          "gananciaMaxima": "$80.000 CLP"
+        },
+        {
+          "bono": "60%",
+          "rollover": "X4",
+          "rango": "$21.000 a $60.000 CLP",
+          "bonoMaximo": "$40.000 CLP",
+          "gananciaMaxima": "$100.000 CLP"
+        },
+        {
+          "bono": "80%",
+          "rollover": "X3",
+          "rango": "Desde $61.000 CLP",
+          "bonoMaximo": "$40.000 CLP",
+          "gananciaMaxima": "$120.000 CLP"
+        }
+      ],
+      "thursdayFriday": [
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "$5.000 a $20.000 CLP",
+          "bonoMaximo": "$50.000 CLP",
+          "gananciaMaxima": "$80.000 CLP"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "$21.000 a $60.000 CLP",
+          "bonoMaximo": "$50.000 CLP",
+          "gananciaMaxima": "$100.000 CLP"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "Desde $61.000 CLP",
+          "bonoMaximo": "$50.000 CLP",
+          "gananciaMaxima": "$120.000 CLP"
+        }
+      ],
+      "saturday": [
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "$5.000 a $20.000 CLP",
+          "bonoMaximo": "$30.000 CLP",
+          "gananciaMaxima": "$50.000 CLP"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "$21.000 a $60.000 CLP",
+          "bonoMaximo": "$30.000 CLP",
+          "gananciaMaxima": "$80.000 CLP"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "Desde $61.000 CLP",
+          "bonoMaximo": "$30.000 CLP",
+          "gananciaMaxima": "$100.000 CLP"
+        }
+      ]
+    },
+    {
+      "flag": "🇻🇪",
+      "country": "Venezuela",
+      "currency": "VES",
+      "mondayWednesday": [
+        {
+          "bono": "50%",
+          "rollover": "X5",
+          "rango": "Bs. 1.000 a Bs. 3.000",
+          "bonoMaximo": "Bs. 4.000",
+          "gananciaMaxima": "Bs. 8.000"
+        },
+        {
+          "bono": "60%",
+          "rollover": "X4",
+          "rango": "Bs. 3.100 a Bs. 5.000",
+          "bonoMaximo": "Bs. 4.000",
+          "gananciaMaxima": "Bs. 10.000"
+        },
+        {
+          "bono": "80%",
+          "rollover": "X3",
+          "rango": "Desde Bs. 5.100",
+          "bonoMaximo": "Bs. 4.000",
+          "gananciaMaxima": "Bs. 12.000"
+        }
+      ],
+      "thursdayFriday": [
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "Bs. 1.000 a Bs. 3.000",
+          "bonoMaximo": "Bs. 5.000",
+          "gananciaMaxima": "Bs. 8.000"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "Bs. 3.100 a Bs. 5.000",
+          "bonoMaximo": "Bs. 5.000",
+          "gananciaMaxima": "Bs. 10.000"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "Desde Bs. 5.100",
+          "bonoMaximo": "Bs. 5.000",
+          "gananciaMaxima": "Bs. 12.000"
+        }
+      ],
+      "saturday": [
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "Bs. 1.000 a Bs. 3.000",
+          "bonoMaximo": "Bs. 2.000",
+          "gananciaMaxima": "Bs. 4.000"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "Bs. 3.100 a Bs. 5.000",
+          "bonoMaximo": "Bs. 2.000",
+          "gananciaMaxima": "Bs. 5.000"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "Desde Bs. 5.100",
+          "bonoMaximo": "Bs. 2.000",
+          "gananciaMaxima": "Bs. 6.000"
+        }
+      ]
+    },
+    {
+      "flag": "🇧🇷",
+      "country": "Brasil",
+      "currency": "BRL",
+      "mondayWednesday": [
+        {
+          "bono": "50%",
+          "rollover": "X5",
+          "rango": "R$20 a R$70",
+          "bonoMaximo": "R$88",
+          "gananciaMaxima": "R$150"
+        },
+        {
+          "bono": "60%",
+          "rollover": "X4",
+          "rango": "R$71 a R$110",
+          "bonoMaximo": "R$88",
+          "gananciaMaxima": "R$250"
+        },
+        {
+          "bono": "80%",
+          "rollover": "X3",
+          "rango": "Desde R$111",
+          "bonoMaximo": "R$88",
+          "gananciaMaxima": "R$300"
+        }
+      ],
+      "thursdayFriday": [
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "R$20 a R$70",
+          "bonoMaximo": "R$95",
+          "gananciaMaxima": "R$150"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "R$71 a R$110",
+          "bonoMaximo": "R$95",
+          "gananciaMaxima": "R$250"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "Desde R$111",
+          "bonoMaximo": "R$95",
+          "gananciaMaxima": "R$300"
+        }
+      ],
+      "saturday": [
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "R$20 a R$70",
+          "bonoMaximo": "R$60",
+          "gananciaMaxima": "R$100"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "R$71 a R$110",
+          "bonoMaximo": "R$60",
+          "gananciaMaxima": "R$150"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "Desde R$111",
+          "bonoMaximo": "R$60",
+          "gananciaMaxima": "R$200"
+        }
+      ]
+    },
+    {
+      "flag": "🇲🇽",
+      "country": "México",
+      "currency": "MXN",
+      "mondayWednesday": [
+        {
+          "bono": "50%",
+          "rollover": "X5",
+          "rango": "MX$85 a MX$160",
+          "bonoMaximo": "MX$261",
+          "gananciaMaxima": "MX$400"
+        },
+        {
+          "bono": "60%",
+          "rollover": "X4",
+          "rango": "MX$161 a MX$260",
+          "bonoMaximo": "MX$261",
+          "gananciaMaxima": "MX$550"
+        },
+        {
+          "bono": "80%",
+          "rollover": "X3",
+          "rango": "Desde MX$261",
+          "bonoMaximo": "MX$261",
+          "gananciaMaxima": "MX$600"
+        }
+      ],
+      "thursdayFriday": [
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "MX$85 a MX$160",
+          "bonoMaximo": "MX$261",
+          "gananciaMaxima": "MX$400"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "MX$161 a MX$260",
+          "bonoMaximo": "MX$261",
+          "gananciaMaxima": "MX$550"
+        },
+        {
+          "bono": "30%",
+          "rollover": "X6",
+          "rango": "Desde MX$261",
+          "bonoMaximo": "MX$261",
+          "gananciaMaxima": "MX$600"
+        }
+      ],
+      "saturday": [
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "MX$85 a MX$160",
+          "bonoMaximo": "MX$100",
+          "gananciaMaxima": "MX$200"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "MX$161 a MX$260",
+          "bonoMaximo": "MX$100",
+          "gananciaMaxima": "MX$250"
+        },
+        {
+          "bono": "20%",
+          "rollover": "X5",
+          "rango": "Desde MX$261",
+          "bonoMaximo": "MX$100",
+          "gananciaMaxima": "MX$300"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Cómo registro mi cuenta?",
+      "a": "Haz clic en \"Registro\", completa el formulario con tus datos personales y confirma tu correo electrónico. El proceso toma menos de 2 minutos."
+    },
+    {
+      "q": "¿Qué métodos de pago aceptan?",
+      "a": "Nuestra plataforma es internacional y los métodos disponibles pueden variar según el país. Actualmente aceptamos transferencias bancarias y pagos realizados a través de corresponsales autorizados.  Las cuentas y datos de pago autorizados se encuentran disponibles directamente en nuestra plataforma. Antes de realizar una recarga, verifica siempre la información indicada allí."
+    },
+    {
+      "q": "¿Cuál es el depósito mínimo?",
+      "a": "Los montos mínimos pueden variar según el método de pago disponible en cada país. Consulta las opciones habilitadas directamente en nuestra plataforma antes de realizar tu recarga."
+    },
+    {
+      "q": "¿Cómo funciona el rollover?",
+      "a": "El rollover es el número de veces que debes apostar el bono antes de poder retirar. Un bono de $100 con rollover X5 requiere apostar $500 en total."
+    },
+    {
+      "q": "¿El 200% en deportivas tiene condiciones especiales?",
+      "a": "Sí. Aplica en fútbol, solo en apuestas combinadas de 3 a 20 selecciones, con cuota mínima de 1.90 por selección, y exclusivamente en modalidad prepartido."
+    },
+    {
+      "q": "¿El Sábado de Galope siempre está disponible?",
+      "a": "El bono del 20% en hipismo aplica los sábados en los que no haya eventos en hipódromos de Venezuela. Cuando hay jornada venezolana (Valencia), esa semana no hay promo de galope."
+    },
+    {
+      "q": "¿Puedo apostar desde el celular?",
+      "a": "Sí, la plataforma está totalmente optimizada para móviles. Accede desde tu navegador — sin apps ni descargas."
+    }
+  ],
+  "terms": {
+    "subtitle": "HÍPICAS BABIECA · Bonos de Hipismo y Programa de Cashback",
+    "sections": [
+      {
+        "number": "01",
+        "title": "Condiciones generales",
+        "items": [
+          "Las promociones de HÍPICAS BABIECA están sujetas a los presentes Términos y Condiciones y a las condiciones particulares establecidas para cada promoción y día de la semana.",
+          "La participación en una promoción implica la aceptación de sus condiciones. Las promociones aplican únicamente a usuarios mayores de 18 años y registrados en HÍPICAS BABIECA.",
+          "Los bonos son personales e intransferibles. HÍPICAS BABIECA podrá validar la identidad del usuario y revisar datos asociados a la cuenta, hogar, dirección, correo electrónico, número telefónico, método de pago y/o dirección IP con el fin de prevenir duplicidad, fraude o uso indebido de promociones.",
+          "Salvo que se indique lo contrario, los bonos y las ganancias promocionales no estarán disponibles para retiro hasta que se cumplan los requisitos de liberación aplicables.",
+          "Los bonos son asignados manualmente por el equipo de Atención al Cliente (ATC), cuando corresponda. El usuario deberá cumplir la recarga mínima y demás requisitos establecidos para activar cada promoción.",
+          "Las ganancias máximas de bonos y giros están sujetas a los límites indicados en cada promoción. Cualquier excedente sobre la ganancia máxima aplicable podrá ser descontado del saldo promocional.",
+          "Vigencia general de las promociones: hasta el 31 de diciembre de 2026 o hasta agotar existencia/disponibilidad, lo que ocurra primero."
+        ]
+      },
+      {
+        "number": "02",
+        "title": "Bonos de Hipismo por día",
+        "items": [
+          "El bono se aplica sobre la primera recarga elegible del día, de acuerdo con el rango de recarga, porcentaje, rollover, bono máximo y ganancia máxima indicados a continuación."
+        ]
+      },
+      {
+        "number": "03",
+        "title": "Rollover y liberación",
+        "items": [
+          "El rollover corresponde al número de veces que deberá apostarse el monto aplicable a la promoción antes de que el bono y las ganancias promocionales asociadas queden habilitados para retiro.",
+          "El rollover aplicable será el indicado en la tabla de la promoción recibida.",
+          "Las apuestas anuladas, canceladas, reembolsadas o declaradas nulas no contabilizarán para el cumplimiento del rollover.",
+          "Si el usuario solicita un retiro mientras mantiene un bono activo o antes de completar el rollover correspondiente, HÍPICAS BABIECA podrá cancelar el bono y las ganancias promocionales asociadas, conforme a las condiciones de la promoción.",
+          "Para esta promoción de Hipismo, las apuestas válidas para completar el rollover deberán corresponder a las jugadas elegibles definidas por HÍPICAS BABIECA."
+        ]
+      },
+      {
+        "number": "04",
+        "title": "Ganancia máxima",
+        "items": [
+          "La ganancia máxima es el monto máximo que podrá reconocerse al usuario como resultado de la promoción, según el rango de recarga y día aplicable.",
+          "Cuando las ganancias derivadas del bono superen el límite indicado, el excedente promocional no será pagadero y podrá ser descontado al momento de la liberación del bono o de la solicitud de retiro.",
+          "Realizar una recarga superior al mínimo de un rango no modifica el bono máximo ni la ganancia máxima establecidos para dicho rango."
+        ]
+      },
+      {
+        "number": "05",
+        "title": "Restricciones, validación y uso indebido",
+        "items": [
+          "HÍPICAS BABIECA podrá revisar la actividad de las cuentas antes de liberar bonos o autorizar retiros relacionados con promociones.",
+          "Podrán considerarse usos indebidos, entre otros: cuentas múltiples, coordinación entre cuentas, uso irregular de métodos de pago compartidos, cambios artificiales en patrones de apuesta, estrategias de cobertura (hedge betting) o mecanismos destinados a manipular el rollover o asegurar resultados.",
+          "Cuando existan indicios razonables de incumplimiento, HÍPICAS BABIECA podrá suspender temporalmente la liberación del bono o del retiro asociado mientras realiza las verificaciones correspondientes.",
+          "Confirmado el incumplimiento, HÍPICAS BABIECA podrá cancelar el bono y las ganancias promocionales obtenidas en contravención de estos términos.",
+          "El usuario deberá proporcionar información verdadera, actualizada y verificable. HÍPICAS BABIECA podrá solicitar validación de identidad y titularidad de los medios de pago antes de procesar ganancias promocionales."
+        ]
+      },
+      {
+        "number": "06",
+        "title": "Modificación o suspensión de promociones",
+        "items": [
+          "HÍPICAS BABIECA se reserva el derecho de modificar, suspender o finalizar promociones por razones operativas, técnicas, regulatorias, de seguridad o de prevención de abuso. Las modificaciones serán aplicables conforme a las condiciones publicadas para la promoción correspondiente."
+        ]
+      },
+      {
+        "number": "07",
+        "title": "Cashback de Hípicas",
+        "items": [
+          "El programa de Cashback de Hípicas reconoce un porcentaje sobre el total apostado en jugadas elegibles que sean definidas como perdidas, de acuerdo con el tipo de apuesta y la clase del hipódromo.",
+          "El cashback se calcula sobre el total apostado en cada tipo de jugada elegible que sea definida como perdida.",
+          "El cashback se acredita automáticamente en el saldo del usuario. El plazo máximo para la acreditación es de 24 horas después de realizada la apuesta.",
+          "Las apuestas anuladas o canceladas no generan cashback.",
+          "HÍPICAS BABIECA se reserva el derecho de modificar, suspender o finalizar el programa de cashback en cualquier momento.",
+          "La ganancia máxima obtenida al apostar saldo proveniente de cashback no podrá superar 100 veces el valor apostado con dicho saldo. Por ejemplo, si se realiza una apuesta de $1.000 proveniente de cashback, el premio máximo reconocido será de $100.000."
+        ]
+      },
+      {
+        "number": "08",
+        "title": "Disposiciones finales",
+        "items": [
+          "Todas las promociones están sujetas a revisión y validación interna.",
+          "Los bonos, giros y cashback no son transferibles entre usuarios.",
+          "Las apuestas anuladas, canceladas, reembolsadas o declaradas nulas no generarán beneficios promocionales cuando así corresponda.",
+          "En caso de controversia relacionada con una promoción, HÍPICAS BABIECA revisará la actividad de la cuenta y las evidencias disponibles conforme a estos Términos y Condiciones y a la normativa aplicable."
+        ]
+      }
+    ],
+    "bonusIntro": "El bono se aplica sobre la primera recarga elegible del día, de acuerdo con el rango de recarga, porcentaje, rollover, bono máximo y ganancia máxima indicados a continuación.",
+    "bonusTables": [
+      {
+        "title": "Lunes, martes y miércoles",
+        "key": "mondayWednesday"
+      },
+      {
+        "title": "Jueves y viernes",
+        "key": "thursdayFriday"
+      },
+      {
+        "title": "Sábado",
+        "key": "saturday"
+      }
+    ],
+    "cashback": {
+      "types": [
+        {
+          "type": "PWPS",
+          "description": "Cashback sobre jugadas WIN, PLACE y SHOW.",
+          "cashback": "3%"
+        },
+        {
+          "type": "PEXO",
+          "description": "Cashback sobre jugadas exóticas: Exacta, Trifecta, Superfecta, Pick 2, Pick 3, Pick 4, etc.",
+          "cashback": "9%"
+        }
+      ],
+      "classes": [
+        {
+          "class": "A",
+          "pwps": "3%",
+          "pexo": "9%"
+        },
+        {
+          "class": "B",
+          "pwps": "3%",
+          "pexo": "9%"
+        },
+        {
+          "class": "C",
+          "pwps": "N/A",
+          "pexo": "9%"
+        },
+        {
+          "class": "D",
+          "pwps": "3%",
+          "pexo": "N/A"
+        },
+        {
+          "class": "E",
+          "pwps": "3%",
+          "pexo": "9%"
+        }
+      ],
+      "example": "Si el usuario apuesta $10.000 COP en una Trifecta (PEXO) en un hipódromo Clase A y la jugada es definida como perdida: $10.000 × 9% = $900 COP de cashback"
+    },
+    "finalNotice": "Juego responsable · +18"
+  },
+  "links": [
+    {
+      "label": "Regístrate",
+      "url": "https://hipicasbabieca.io"
+    }
+  ],
+  "notices": [
+    {
+      "title": "Información sobre las tablas",
+      "text": "Los valores de bono máximo y ganancia máxima son provisionales en países distintos de Colombia."
+    },
+    {
+      "title": "Juego responsable",
+      "text": "+18 · Juega responsablemente"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Regístrate",
+      "description": "Crea tu cuenta en menos de 2 minutos."
+    },
+    {
+      "title": "Verifica",
+      "description": "Confirma tu identidad con un documento válido."
+    },
+    {
+      "title": "Deposita",
+      "description": "Recarga con tu método de pago favorito."
+    },
+    {
+      "title": "Apuesta",
+      "description": "Elige tu carrera y vive la emoción."
+    }
+  ],
+  "footerText": "© 2024 Hípicas Babieca · Todos los derechos reservados"
+}
